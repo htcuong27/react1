@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "HTC",
+        "tel": "0968453367",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Iron man",
+        "tel": "09091658",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "VanAnh",
+        "tel": "05656565656",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "To",
+        "tel": "0968453367",
+        "permission": 1
+    },
+    {
+        "id": 5,
+        "name": "TOI",
+        "tel": "0968453367",
+        "permission": 1
+    }
+
+]
